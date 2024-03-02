@@ -1,0 +1,26 @@
+{
+  "name": "chromapalette",
+  "displayName": "ChromaPalette",
+  "description": "Beautiful Color Theme for VSCode",
+  "version": "0.0.9",
+  "publisher": "HumedEssie",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "repository": {
+    "url": "https://github.com/Humed-Muhammad/ChromaPalette"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ChromaPalette Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ChromaPalette-color-theme.json"
+      }
+    ]
+  },
+  "icon": "./icon.png"
+}
