@@ -43,6 +43,6 @@ Feel free to adjust the colors and settings according to your preference.
 
 ## Feedback
 
-If you have any suggestions, feedback, or issues related to the ChromaPalette Dark color theme, please don't hesitate to [open an issue](https://github.com/example/repository/issues) on the GitHub repository.
+If you have any suggestions, feedback, or issues related to the ChromaPalette Dark color theme, please don't hesitate to [open an issue](https://github.com/Humed-Muhammad/ChromaPalette/issues) on the GitHub repository.
 
 Enjoy coding with ChromaPalette Dark!
