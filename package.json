@@ -2,7 +2,7 @@
   "name": "chromapalette",
   "displayName": "ChromaPalette",
   "description": "Beautiful Color Theme for VSCode",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "publisher": "HumedEssie",
   "engines": {
     "vscode": "^1.54.0"
